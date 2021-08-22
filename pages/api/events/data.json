@@ -1,0 +1,71 @@
+{
+    "events":[
+        {
+            "id": "1",
+            "name": "Throwback Thursday with DJ Manny Duke",
+            "slug": "throwback-thursdays-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022", 
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event1.jpg"
+        },{
+            "id": "2",
+            "name": "Throwback Joke with DJ Manny Duke",
+            "slug": "throwback-joke-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event2.jpg"
+        },{
+            "id": "3",
+            "name": "Throwback Happy with DJ Manny Duke",
+            "slug": "throwback-happy-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event3.jpg"
+        },{
+            "id": "4",
+            "name": "Throwback Bobo with DJ Manny Duke",
+            "slug": "throwback-bobo-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event4.jpg"
+        },{
+            "id": "5",
+            "name": "Throwback Suntukan with DJ Manny Duke",
+            "slug": "throwback-suntukan-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event5.jpg"
+        },{
+            "id": "6",
+            "name": "Throwback Sinapak with DJ Manny Duke",
+            "slug": "throwback-sinapak-with-dj-manny-duke",
+            "venue": "Horizon Club",
+            "performers": "Twice",
+            "address": "919 3rd Ave New York, New York (NY), 10022",
+            "date": "July 6, 2021",
+            "time": "10:00 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic song from two of the best decades of music from the 90's and 2000's",
+            "image": "/images/sample/event6.jpg"
+        }
+    ]
+}
